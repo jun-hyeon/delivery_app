@@ -1,16 +1,7 @@
 # delivery_app
 
-A new Flutter project.
+강의를 보고 구현해본 배달 앱입니다.
+flutter: > 3.0
+riverpod 2.0
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+출처: https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%8B%A4%EC%A0%84
